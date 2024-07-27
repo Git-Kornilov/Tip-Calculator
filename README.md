@@ -1,3 +1,3 @@
 # Tip Calculator - React exercise
 
-old style React
+some exercise
